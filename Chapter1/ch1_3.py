@@ -1,3 +1,5 @@
+#urlify: given a string and the true length of string, write a function that replaces the
+#" " with "%20"
 my_dictionary={" ": "%20"}
 def urlify(string,truelength):
 	i=0
